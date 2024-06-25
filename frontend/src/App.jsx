@@ -4,11 +4,12 @@ import Footer from './components/Footer'
 import Counter from './components/Counter'
 import PasswordGenerator from './components/PasswordGenerator'
 import Backend from './components/Backend'
+import Todos from './components/Todos'
 
 function App() {
   return (
     <>
-      <Backend />
+      <Todos />
     </>
   )
 }
